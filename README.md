@@ -196,6 +196,3 @@ XTimer
 | `migrator.workersNum` | 1000 | 迁移 Worker 数量 |
 | `migrator.migrateStepMinutes` | 60 | 每次迁移覆盖时间步长（分钟） |
 
-## License
-
-MIT
